@@ -27,7 +27,7 @@ pad_right = 0.1
 plot_x_margin = 0.01
 plot_y_margin = 0.01
 ```
-The variables `lines` and `cols` define the dimensions of the generated mutiplot-matrix, where `lines * cols` equals the total number of graphs in the plot.
+The variables `lines` and `cols` define the dimensions of the generated multiplot-matrix, where `lines * cols` equals the total number of graphs in the plot.
 
 The other variables are paddings and margins. See the image below to understand what they do.
 
